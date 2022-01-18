@@ -1,0 +1,115 @@
+.heading{
+    background-color: #CDF0EA;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+body{
+    margin: 0 0 0 0;
+    font-family: 'Indie Flower', cursive;
+}
+h1{
+    margin: 0 0 0 0;
+    font-size: 3.125rem;
+    color:turquoise;
+}
+h3{
+    font-size:1.875rem;
+    color:turquoise;
+}
+
+.topcloud{
+position: absolute;
+top: 50px;
+right: 470px;
+height: 15%;
+width: 8%;
+
+}
+.bottomcloud{
+    position:absolute;
+   left: 500px;
+   top: 235px;
+   height: 15%;
+    width: 8%;
+}
+.mountain{
+    width: 50%;
+    height: 50%;
+}
+.middle-container{
+    text-align: center;
+}
+.bottom-container{
+    text-align: center;
+    background-color: #66BFBF;
+    padding-top: 35px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+}
+.profile{
+    padding-top: 50px;
+    width: 50%;
+    margin-left: auto ;
+    margin-right: auto;
+}
+p{
+    font-size:x-large;
+    font-family: 'Handlee', cursive;  
+}
+hr{
+    size: 2px;
+    color:mediumorchid;
+    width: 40%;
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.web{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.code{
+    width: 25%;
+    float: right;
+    margin-right: 35px;
+}
+.pp{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+.footer-link{
+    color:bisque;
+    font-size: x-large;
+    padding-right: 20px;
+}
+.btn{
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 18px;
+    background-color: #66BFBF;
+    -webkit-box-shadow: 0 0 2px 0 #000000;
+    -moz-box-shadow: 0 0 2px 0 #000000;
+    box-shadow: 0 0 2px 0 #000000;
+    text-shadow: 1px -1px 5px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-bloc
+}
+.btn:hover{
+    background: #67ADE4;
+    border: solid #FFFFFF 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
